@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: NOVI KALKULATOR, Configuration: Debug Any CPU ------
+1>C:\Users\stefa\source\repos\NOVI KALKULATOR\NOVI KALKULATOR\Program.cs(69,1,69,2): error CS1022: Type or namespace definition, or end-of-file expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
