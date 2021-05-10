@@ -1,0 +1,2 @@
+# kalkulator-novi
+Jednostavan kalkulator
